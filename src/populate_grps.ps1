@@ -29,7 +29,7 @@ if (!$FileAccessCredentialFile) {
 
 
 
-Pull-Lists -SourceDir "\\luna\c$\Inetpub\Websites\WWW Physics Web Site\App_Data\groups" `
+Pull-Lists -SourceDir "\\luna.byu.edu\c$\Inetpub\Websites\WWW Physics Web Site\App_Data\groups" `
            -WorkingDir $WorkingDir `
            -Credential $FileAccessCredential
 
